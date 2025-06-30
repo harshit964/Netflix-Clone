@@ -1,2 +1,2 @@
-# Netflix-Clone
-A clone of Netflix
+# MoviesFlix
+A OTT Platform Web Application
